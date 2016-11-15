@@ -804,7 +804,7 @@ hr.fc-divider {
   z-index: 5;
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+/*@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .bootstrap-select > .btn-default:before {
     background-image: url("../img/select@2x.png");
     background-size: 12px 12px;
@@ -960,9 +960,9 @@ hr.fc-divider {
   position: absolute;
   right: 0;
   top: 10px;
-}
+}*/
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+/*@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .chosen-container-single .chosen-single:before {
     background-image: url("../img/select@2x.png");
     background-size: 12px 12px;
@@ -1135,9 +1135,9 @@ select.chosen {
   left: 50%;
   margin-left: -9px;
   content: "";
-}
+}*/
 
-.noUi-horizontal .noUi-active,
+/*.noUi-horizontal .noUi-active,
 .noUi-vertical .noUi-active {
   box-shadow: 0 0 0 13px rgba(0, 0, 0, 0.1);
 }
@@ -1268,8 +1268,8 @@ select.chosen {
   position: absolute;
   top: 0;
   right: 15px;
-}
-
+}*/
+/*
 .note-editor .note-toolbar,
 .note-popover .note-toolbar,
 .note-editor .popover-content,
@@ -1508,7 +1508,7 @@ select.chosen {
 
 .note-editor .note-editable {
   padding: 20px 23px;
-}
+}*/
 
 .bootstrap-datetimepicker-widget {
   padding: 0 !important;
@@ -1739,7 +1739,7 @@ select.chosen {
   padding: 0;
 }
 
-.fileinput {
+/*.fileinput {
   position: relative;
   padding-right: 35px;
 }
@@ -1992,4 +1992,4 @@ select.chosen {
 
 .mCSB_inside > .mCSB_container {
   margin-right: 0;
-}
+}*/
