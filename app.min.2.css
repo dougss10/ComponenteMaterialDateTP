@@ -1,8 +1,4 @@
 @media print {
-  /*
-     * INVOICE
-     */
-
   .invoice {
     padding: 30px !important;
     -webkit-print-color-adjust: exact !important;
